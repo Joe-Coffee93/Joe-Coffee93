@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hi, I’m Joe Coffee
 
-<!--
-**Joe-Coffee93/Joe-Coffee93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Cyber Security & Computer Forensics (2:1)** — Kingston University, London.  
+I build **SOC-style dashboards in Splunk**, prototype **IoT cryptography + steganography** on Arduino, and enjoy turning data into insights.
 
-Here are some ideas to get you started:
+🎯 Currently seeking graduate roles in:
+- SOC / Security Operations  
+- Information Security  
+- Data Analysis or Observability Engineering  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 Technical Highlights
+- **Splunk SOC Dashboards** — Honeypot, IDS, Firewall, Apache, Auth logs  
+- **IoT Crypto + Stego Prototype** — Arduino Nano 33 IoT (AES via TinyCrypt + Python decryption)  
+- **Linux Monitoring with Nagios** — Network discovery + system health comparison  
+- **Agile XP Project: NHS CKD Risk Calculator** — Project management, UML, demo delivery  
+
+---
+
+## ⚙️ Skills & Tools
+Splunk • Python • SQL • Arduino C++ • Linux • Tableau (learning)  
+Jira • Lucidchart • UML • Excel • Power BI (learning)
+
+---
+
+## 🔗 Links
+- 💼 [LinkedIn](https://www.linkedin.com/in/joe-coffee1993/)  
+- 📧 josephcoffeecyber@gmail.com  
+- 📍 Muswell Hill, London, UK
