@@ -13,7 +13,6 @@ I build **SOC-style dashboards in Splunk**, prototype **IoT cryptography + stega
  Technical Highlights
 - **Splunk SOC Dashboards** — Honeypot, IDS, Firewall, Apache, Auth logs  
 - **IoT Crypto + Stego Prototype** — Arduino Nano 33 IoT (AES via TinyCrypt + Python decryption)  
-- **Linux Monitoring with Nagios** — Network discovery + system health comparison  
 - **Agile XP Project: NHS CKD Risk Calculator** — Project management, UML, demo delivery  
 
 ---
